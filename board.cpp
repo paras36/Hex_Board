@@ -31,7 +31,7 @@ public:
 
 int main() {
     
-    HexBoard hex(7);
+    HexBoard hex(11);
     hex.display();
     return 0;
 }
